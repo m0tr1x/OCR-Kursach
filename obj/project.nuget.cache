@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5T1Jd2MjmwwRGA5Ofm0J9l+BL8TbtTalVOzjjZuGNQXz+VVK4GTb6lAHPLDRIA5MWgi3arKti0QL0JHExV7LoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\its_m\\source\\repos\\Suffer\\Suffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\its_m\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\its_m\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
